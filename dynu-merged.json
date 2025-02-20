@@ -30,6 +30,12 @@
                     "default": "password",
                     "description": "Dynudns account password - plain or MD5 hash"
                 },
+                 {
+                    "name": "LOG_FILE",
+                    "label": "LOG_FILE",
+                    "default": "logfile",
+                    "description": "monitor the logs, provide true or false (optional)"
+                },
                 {
                     "name": "TIMEZONE",
                     "label": "TIMEZONE",
